@@ -1,6 +1,6 @@
 # Adventure-Work_Sale-Analysis
 ### Overview
-This project focuses on analyzing sales data for Adventure World to uncover key insights and support data-driven decision-making. By leveraging SQL for data extraction and transformation and Power BI for dynamic visualization, the analysis provides a clear picture of sales trends, customer behavior, and performance metrics.
+This project focuses on analyzing sales data for Adventure World to uncover key insights and support data-driven decision-making. By leveraging SQL for data extraction and transformation and Power BI for dynamic visualization, the analysis provides a clear picture of sales trends, customer behavior, and performance metrics. [link](https://app.powerbi.com/links/KlNIi9SVRY?ctid=a20d9c8a-2343-47af-9caa-d0d4508edde1&pbi_source=linkShare)
 
 ### Features
 - **SQL Integration**: Efficiently extracts and processes raw sales data from the database. Complex queries ensure accuracy and relevance.
