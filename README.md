@@ -7,7 +7,7 @@ This project focuses on analyzing sales data for Adventure World to uncover key 
 - **Interactive Dashboards**: Power BI dashboards highlight:<br>
 Monthly and yearly sales performance.<br>
 Top-selling products and categories.<br>
-Customer segmentation and purchasing behavior.<br>
+Customer purchasing behavior.<br>
 Regional sales comparisons.<br>
 - **Insights & Recommendations**: Actionable insights are presented to guide strategic decisions and improve business performance.
 ### Tools Used
