@@ -1,6 +1,7 @@
 # Adventure-Work_Sale-Analysis
 ### Overview
-This project focuses on analyzing sales data for Adventure World to uncover key insights and support data-driven decision-making. By leveraging SQL for data extraction and transformation and Power BI for dynamic visualization, the analysis provides a clear picture of sales trends, customer behavior, and performance metrics. [link here](https://app.powerbi.com/links/KlNIi9SVRY?ctid=a20d9c8a-2343-47af-9caa-d0d4508edde1&pbi_source=linkShare)
+This project focuses on analyzing sales data for Adventure World to uncover key insights and support data-driven decision-making. By leveraging SQL for data extraction and transformation and Power BI for dynamic visualization, the analysis provides a clear picture of sales trends, customer behavior, and performance metrics. [link here]
+(https://app.powerbi.com/links/KlNIi9SVRY?ctid=a20d9c8a-2343-47af-9caa-d0d4508edde1&pbi_source=linkShare)
 
 ### Features
 - **SQL Integration**: Efficiently extracts and processes raw sales data from the database. Complex queries ensure accuracy and relevance.
@@ -19,6 +20,7 @@ RFM analysis.<br>
 - Advanced SQL queries to handle large datasets and ensure data quality.
 ### Data Structure and Initial Check
 The data model for this project includes 8 interconnected tables—Customer, Salesperson, Address, Product, Product Category, Product Subcategory, Sales Data, and Calendar—comprising 121,317 rows of data spanning from 2011 to 2014. This structure supports a comprehensive sales analysis by integrating transactional details, customer information, geographic data, and product hierarchies, enabling dynamic insights through SQL and Power BI.
+<br>
 ![image](https://github.com/user-attachments/assets/8d7301e1-732f-4a64-b4a9-cbe5c5b7d49e)
 ### Overview Finding
 The analysis provided valuable insights into sales performance from 2011 to 2014, incorporating RFM (Recency, Frequency, Monetary) analysis to identify high-value customer segments. Key findings include top-performing products, high-revenue categories, and regional sales trends. RFM analysis highlighted loyal and high-spending customers. Salesperson performance data revealed key contributors to revenue growth, while seasonal trends and year-over-year comparisons identified opportunities to optimize inventory and marketing efforts, driving actionable recommendations for sustained business improvement.
